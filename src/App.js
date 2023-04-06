@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React//, { useState, useEffect } 
+from 'react';
 
 function App() {
     // We declare a state variable that is an array called `issues` and a function to update it.
